@@ -1,5 +1,5 @@
-# PR1_ADMIN_BD
-Practica #1
+# PR2_ADMIN_BD
+Practica #2
 
 
 Brian Menendez Lopez
